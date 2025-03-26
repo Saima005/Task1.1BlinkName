@@ -1,7 +1,7 @@
 
-#define DOT_DELAY 500    // Duration of a dot blink (200ms)
-#define DASH_DELAY 1000   // Duration of a dash blink (600ms)
-#define LETTER_GAP 500   // Gap between letters (600ms)
+#define DOT_DELAY 500    // Duration of a dot blink (500ms)
+#define DASH_DELAY 1000   // Duration of a dash blink (1000ms)
+#define LETTER_GAP 500   // Gap between letters (500ms)
 #define WORD_GAP 1400    // Gap between repeating the name (1400ms)
 
 void setup() {
